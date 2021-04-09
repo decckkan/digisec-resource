@@ -5,7 +5,11 @@
 - https://exposingtheinvisible.org/en/guides/behind-the-data-metadata-investigations/
 
 ### PGP
+#### Graphic
 - https://emailselfdefense.fsf.org/en/infographic.html
+
+#### Mailvelope
+- https://freedom.press/training/encrypting-email-mailvelope-guide/
 
 ### Training Manual
 - https://en.ftx.apc.org/ (en, fr, pt)
