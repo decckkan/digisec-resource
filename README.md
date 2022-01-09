@@ -19,3 +19,6 @@
 
 ## Holistic Security Resources
 - https://holistic-security.tacticaltech.org/
+
+## Browser Security
+- https://privacytests.org/
